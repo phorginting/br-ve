@@ -9,6 +9,4 @@ You can visit [brave website](https://brave.com/download) to get the latest stab
 ## Community
 Join the Q&A [community](https://community.brave.com/) if you'd like to get more involved with Brave. You can ask for help, discuss features you'd like to see, and a lot more. We'd love to have your help so that we can continue improving Brave.
 
-Help us translate Brave to your language by submitting translations at https://www.transifex.com/brave/brave/
-
-Follow @brave on Twitter for important news and announcements.
+Follow [@brave](https://twitter.com/brave) on Twitter for important news and announcements.
