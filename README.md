@@ -1,4 +1,4 @@
-## Brave Browser
+# Brave Browser
 
 ## Overview
 The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software.
